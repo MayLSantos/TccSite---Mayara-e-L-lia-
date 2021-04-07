@@ -1,0 +1,3 @@
+Usamos o XAMPP para rodar o banco de dados MySQL. 
+E usamos PHP para fazer a ligação. (falta ajustar condições) 
+Algumas imagens para background ainda serão definidos melhor. 

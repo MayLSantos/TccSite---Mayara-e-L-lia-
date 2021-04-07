@@ -1,0 +1,17 @@
+Obs* Criar database como o nome tcc_login 
+e criar tabela abaixo pelo código sql. 
+
+
+CREATE TABLE usuarios(
+    id int PRIMARY KEY AUTO_INCREMENT, 
+    nome varchar(30), 
+    sexo varchar(20),
+    cpf varchar(14),
+    DataDeNascimento date, 
+    turma varchar(20), 
+    curso varchar(20),
+    email varchar(40),
+    senha varchar(32),
+    created datetime
+           
+);
